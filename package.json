@@ -1,0 +1,19 @@
+{
+  "name": "cloudeck",
+  "version": "1.0.0",
+  "description": "Cloudeck is a registry for cloudoll serivce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudoll/cloudeck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudoll/cloudeck/issues"
+  },
+  "homepage": "https://github.com/cloudoll/cloudeck#readme"
+}
